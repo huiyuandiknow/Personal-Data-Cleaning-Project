@@ -1,0 +1,37 @@
+Berries: aggregation needed 
+blackberries D1  1                 cents/lb
+blueberries avg of D2A,B,C,D 2-5
+boysenberries D3A 6
+loganberries D3B 7
+black raspberries D4 8
+red raspberries D5 9 
+cranberries D7    11                   $/100 lb
+strawberries D8  12 only have one price     $/cwt
+
+Citrus: aggregation not needed
+Grapefruit tabc 4  $/76 lbs before 2010, $/80 lbs on and after 2010
+Lemons 15          $/76 lbs before 2010, $/80 lbs on and after 2010
+oranges 22         $/76 lbs before 2010, $/80 lbs on and after 2010
+
+Melon: aggregation not needed   unit: $/cwt
+cantaloupe E11
+honeydew E12
+watermelon E13
+
+Noncitrus:   
+apples 4  col 7-9 grower price     				 cents/lb, $/ton, cents/lb
+apricots 8 col 7-9 grower price                                  $/ton
+avocado 9 10 grower price    -- second last    contains na       $/ton
+banana 10 5 grower price    -- second last   contains na         cents/lb
+cherries 11 7-9 grower price                                     $/ton
+grapes 14 7-9 grower price                                       $/ton
+guavas 18 9 grower price -- second last   contains na            cents/lb
+kiwi 19 3 grower price -- second last                            $/ton
+nectarine 20 5-7 grower price  -- last 3   contains 1            $/ton
+papaya 23 col 7-9 grower price             contains symbol       cents/lb
+peaches 24 col 7-9 grower price                                  cents/lb, $/ton, cents/lb
+pears 27 col 7-9 grower price 					 $/2000 lb
+Pineapples 30 col 8-9 grower price -- 3rd last   contains 6, 7   $/ton
+Prunes and plums 33 col 7-9 grower pfrice			 $/ton
+
+
