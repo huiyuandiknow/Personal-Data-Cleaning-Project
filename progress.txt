@@ -1,0 +1,35 @@
+03/27/17
+- came up with project idea
+- pulled data from the USDA site
+- cleaned data, including separating the variable Form into 3 different variables, change variable unit names, and combine multiple datasets into one data set
+- acquire the least and most expensive fruit across the whole dataset
+- acquire the least and most expensive fruit among different type of fruit products 
+
+03/28/17
+- added description for project part I
+- further increased fruit type into 6 categories 
+- added bar chart of all products, colored by fruit types
+- for the bar chart above, plot the sorted version for a better visualization. 
+- compared standard deviation of average price per cup between fruit types
+- compared average of average price per cup and preparation yield ratio to come up with the fruit with highest investment value. 
+
+03/29/17
+- added 4 different master data files
+- Go through each file and come up with ways to extract data from different worksheets
+
+03/30/17
+- try to come up with one code to pull data from all files
+- came up with the investigation questions below after exploring the data: 
+	1. Use data with Fresh and Processed prices to compare the trend between the two
+	2. Use the data with All to compare trend between fruits
+- We will investigate #1 above in part II of the project, and #2 in part III of the project. 
+
+03/31/17
+- added description for project part II
+- cleaned the data for fruit with fresh, processed, and all prices
+- made 5 figures on grower prices on fresh and processed fruits (decided to omit all prices as it's a mixture of fresh/processed fruit prices)
+- wrote conclusion for part II, wrapped it up
+- finished part III as well 
+
+04/05/17
+- applied several machine learning techniques in Part I to see if we can use other variables to predict the price group
